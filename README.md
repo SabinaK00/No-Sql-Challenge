@@ -1,0 +1,1 @@
+The UK Food Standards Agency rates establishments across the country on food hygiene, and the team at Eat Safe, Love has asked me to dive into the data. We’re looking to help their journalists and food critics figure out where to focus next. Should be interesting!
